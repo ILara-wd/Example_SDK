@@ -21,7 +21,7 @@ Add it in your root build.gradle at the end of repositories:
 Add the dependency
 ```bash
 	dependencies {
-	        implementation 'com.github.ILara-wd:Example_SDK:Tag'
+	        implementation 'com.github.ILara-wd:Example_SDK:1.0'
 	}
 ```
 
